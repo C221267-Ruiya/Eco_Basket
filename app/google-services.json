@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624735462494",
+    "project_id": "eco-basket-f2c6b",
+    "storage_bucket": "eco-basket-f2c6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624735462494:android:0824d1a69f6541424c00cf",
+        "android_client_info": {
+          "package_name": "com.example.eco_basket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNvVVU0z3FvGKcbBt_6HlcNQSTS-kNFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
